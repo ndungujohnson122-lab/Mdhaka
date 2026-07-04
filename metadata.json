@@ -1,0 +1,6 @@
+{
+  "name": "Mdhaka Holding Ltd.",
+  "description": "A professional construction company portal featuring pre-built projects, dynamic design generator, and an interactive blog for architectural house designs and styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

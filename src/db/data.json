@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "The Rise of Biophilic Architecture in Modern Residential Design",
+      "summary": "Discover how integrating living elements, natural lighting, and raw textures directly into concrete and glass facades creates healthier, deeply tranquil spaces.",
+      "content": "Biophilic design is far more than adding a few houseplants to a living area; it is an architectural philosophy that seeks to weave the natural world into our daily spatial experience.\n\nIn our recent projects, we have observed an unprecedented interest in multi-story living walls, internal light wells, and natural thermal regulation. By designing homes around existing old-growth trees rather than removing them, and leveraging floor-to-ceiling glass alongside raw timber surfaces, we create spaces that lower stress, improve cognitive health, and breathe naturally. This article explores the engineering challenges of integrating continuous soil systems and automated drip-irrigation systems inside steel-and-concrete frames to achieve a seamless interior-exterior harmony.",
+      "category": "Architecture",
+      "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "date": "July 1, 2026",
+      "author": "Marcus Thorne, Principal Architect"
+    },
+    {
+      "id": "post-2",
+      "title": "Designing for Decades: Why We Stand by Cross-Laminated Timber",
+      "summary": "An in-depth look at Cross-Laminated Timber (CLT) as a structural alternative to heavy steel, offering structural integrity and carbon-negative potential.",
+      "content": "As modern builders, our commitment to sustainability cannot merely be skin-deep. Traditional steel and reinforced concrete are massive carbon contributors. Cross-Laminated Timber (CLT) is a revolutionary carbon-sequestering alternative with exceptional tensile strength, load-bearing capability, and design flexibility.\n\nCLT panels are pre-fabricated in controlled factory settings, allowing our site teams to erect a structural envelope with millimetric precision in a fraction of the traditional build time. Additionally, leaving structural timber exposed internally provides an organic, rich warmth that elevates the interior aesthetic without additional wall cladding. We detail the thermal retention characteristics, seismic performance, and fire-resistance engineering that make CLT the backbone of our eco-luxury portfolio.",
+      "category": "Materials",
+      "imageUrl": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=80",
+      "date": "June 18, 2026",
+      "author": "Sarah Lin, Director of Structural Engineering"
+    },
+    {
+      "id": "post-3",
+      "title": "Smart House Automation: Integrating IoT at the Blueprint Stage",
+      "summary": "We discuss why home automation should never be an afterthought, and how framing low-voltage wiring and smart panels in early blueprints changes everything.",
+      "content": "Many homeowners approach smart tech as a retrofitted layer of gadgets. At our construction firm, we treat dynamic automation as a fundamental nervous system that must be engineered during the initial drafting phase.\n\nBy laying specialized low-voltage conduit channels, mapping integrated sensor systems in the ceiling cavities, and zoning automated window shutters alongside central climate recovery ventilators, we create homes that respond autonomously to external climates. A properly blueprint-integrated smart home doesn't just display controls; it dynamically channels solar heat gain, shifts HVAC loads based on room occupancy, and saves thousands of dollars annually in energy expenditures.",
+      "category": "Smart Home",
+      "imageUrl": "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?auto=format&fit=crop&w=1200&q=80",
+      "date": "May 29, 2026",
+      "author": "David Vance, Chief Systems Engineer"
+    }
+  ],
+  "designs": [
+    {
+      "id": "design-1",
+      "title": "The Obsidian Villa",
+      "style": "Modernist",
+      "description": "An imposing luxury concrete and dark steel residence featuring massive cantilevered slabs, double-height ceiling voids, and an integrated infinity pool reflecting raw stone facades.",
+      "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+      "specifications": {
+        "area": "4,200 sq ft",
+        "bedrooms": "4 Bedrooms",
+        "bathrooms": "4.5 Bathrooms",
+        "materials": ["Textured Board-Formed Concrete", "Matte Black Steel", "Toughened Structural Glass", "Basalt Stone"],
+        "duration": "14-16 Months"
+      },
+      "createdAt": "2026-03-10"
+    },
+    {
+      "id": "design-2",
+      "title": "fjord-A-Frame",
+      "style": "Scandinavian",
+      "description": "A striking modern interpretation of the classic chalet. High structural A-frame pitch, timber cladding, and an immense fully glazed curtain wall overlooking surrounding natural vistas.",
+      "imageUrl": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=1200&q=80",
+      "specifications": {
+        "area": "2,100 sq ft",
+        "bedrooms": "2 Bedrooms",
+        "bathrooms": "2 Bathrooms",
+        "materials": ["Charred Kebony Wood", "Cross-Laminated Timber Panels", "Tri-Pane Low-E Glass", "Slate Tile"],
+        "duration": "8-10 Months"
+      },
+      "createdAt": "2026-04-15"
+    },
+    {
+      "id": "design-3",
+      "title": "Iron & Oak Loft",
+      "style": "Industrial",
+      "description": "An urban multi-story home modeled on adaptive warehouse design. Features exposed brick slip-walls, iron trusses, raw steel window frames, and aged white oak plank flooring.",
+      "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "specifications": {
+        "area": "3,400 sq ft",
+        "bedrooms": "3 Bedrooms",
+        "bathrooms": "3.5 Bathrooms",
+        "materials": ["Reclaimed Red Brick", "Structural Iron Trusses", "Oiled White Oak Wood", "Polished Terrazzo Concrete"],
+        "duration": "11-13 Months"
+      },
+      "createdAt": "2026-05-02"
+    },
+    {
+      "id": "design-4",
+      "title": "The Biosphere Pavilion",
+      "style": "Eco-Friendly",
+      "description": "A modern carbon-negative single-story home featuring a high-density solar tile roof, ram earth walls, structural hempcrete insulation, and an internal courtyard with rain-water filters.",
+      "imageUrl": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "specifications": {
+        "area": "2,850 sq ft",
+        "bedrooms": "3 Bedrooms",
+        "bathrooms": "3 Bathrooms",
+        "materials": ["Stabilized Rammed Earth", "Structural Hempcrete", "Solar Roof Tiles", "Recycled Teakwood"],
+        "duration": "12-14 Months"
+      },
+      "createdAt": "2026-06-20"
+    }
+  ]
+}
